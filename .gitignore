@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*/__pycache__/
+
+# Generic cache directories
+cache/
+*/cache/
+
+# Data directory
+data/
